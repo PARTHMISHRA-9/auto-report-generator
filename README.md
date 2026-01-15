@@ -1,4 +1,19 @@
 # auto-report-generator
+
+COMPANY:CODETECH IT SOLUTIONS
+
+NAME: PARTH MISHRA
+
+INTERN ID:CTIS0557
+
+DOMAIN:PYTHON PROGRAMMING
+
+DURATION:4 WEEKS
+
+MENTOR:NEELA SANTOSH
+
+PROJECT DESCRIPTION:
+
 # Automated Report Generation
 
 This project is part of CODTECH Internship Task-2.
