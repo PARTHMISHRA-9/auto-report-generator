@@ -32,6 +32,11 @@ To read data from a file, analyze it, and generate a formatted PDF report.
 - Automated PDF Report
 - Data Visualization
 
+- <img width="498" height="647" alt="image" src="https://github.com/user-attachments/assets/8e30048d-ae85-4c20-8f9a-9c3dd8829a49" />
+
+
+
+
 ## How to Run
 1. Install required libraries
 2. Run `report_generator.ipynb`
